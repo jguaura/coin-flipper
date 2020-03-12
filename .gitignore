@@ -7,7 +7,9 @@
 
 # testing
 /coverage
-
+/src/App.test.js
+/src/serviceWorker.js
+/src/setupTest.js
 # production
 /build
 
